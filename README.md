@@ -17,12 +17,3 @@ I am recognized as a team player for having an empathetic approach as well as a 
 | [Hygge Homes](https://hyggehomes.dev/)                         | [Hygge Homes Repo](https://github.com/akatsuki-co/hyggehomes)      |  Django app for searching and booking vacation homes      |
 | [Little Foot Trails](https://little-foot-trails.herokuapp.com) | [Little Foot Trails Repo](https://github.com/rmiyazaki6499/little-foot-trails)       | React app for searching for family friendly hiking spots  |
 | [Stand App](https://draychee-standapp.web.app)                 | [Stand App Repo](https://github.com/rmiyazaki6499/standapp)       | Angular app to help guide Scrums for personal use         |     
-
-### Continued Learning
-
-<details>
-<summary>View Contents</summary>
-
-|                                Name                            |                          Details                          |
-| :------------------------------------------------------------: | :-------------------------------------------------------: |
-   
