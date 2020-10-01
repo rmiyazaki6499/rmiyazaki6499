@@ -8,12 +8,16 @@ I am recognized as a team player for having an empathetic approach as well as a 
 
 ### Deployed Projects
 
-<details>
-<summary>View Contents</summary>
-
 |                                Name                            |  Repo  |                          Details                          |
 | :------------------------------------------------------------: | :----: | :-------------------------------------------------------: |
 | [Algo Academy](https://algoacademy.dev)                        |  [Algo Academy Repo](https://github.com/akatsuki-co/algoacademy)   |  React app for reviewing data structures and algorithms   |
 | [Hygge Homes](https://hyggehomes.dev/)                         | [Hygge Homes Repo](https://github.com/akatsuki-co/hyggehomes)      |  Django app for searching and booking vacation homes      |
 | [Little Foot Trails](https://little-foot-trails.herokuapp.com) | [Little Foot Trails Repo](https://github.com/rmiyazaki6499/little-foot-trails)       | React app for searching for family friendly hiking spots  |
 | [Stand App](https://draychee-standapp.web.app)                 | [Stand App Repo](https://github.com/rmiyazaki6499/standapp)       | Angular app to help guide Scrums for personal use         |     
+
+### Technical Articles
+  
+|                                Name                            |
+| :------------------------------------------------------------: |
+| [Deploying a Production-ready React-Express app on AWS](https://dev.to/rmiyazaki6499/deploying-a-production-ready-react-express-app-on-aws-62m)                        |
+| [Deploying a Production-ready Django app on AWS](https://dev.to/rmiyazaki6499/deploying-a-production-ready-django-app-on-aws-1pk3) |
