@@ -6,6 +6,10 @@ I am currently a Software Engineer for a Chatbot platform called [Navbot](http:/
 I am passionate about building web applications with scalable web technologies particularly with Python and Javascript Web Frameworks such as Django and React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
 
+### Github Stats
+
+[![Ryuichi's github stats](https://github-readme-stats.vercel.app/api?username=rmiyazaki6499)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Deployed Projects
 
 |                                Name                            |  Repo  |                          Details                          |
