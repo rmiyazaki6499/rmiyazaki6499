@@ -8,7 +8,7 @@ I am recognized as a team player for having an empathetic approach as well as a 
 
 ### Github Stats
 
-[![Ryuichi's github stats](https://github-readme-stats.vercel.app/api?username=rmiyazaki6499)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryuichi's github stats](https://github-readme-stats.vercel.app/api?username=rmiyazaki6499&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Deployed Projects
 
