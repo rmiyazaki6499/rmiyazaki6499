@@ -14,7 +14,7 @@ I am recognized as a team player for having an empathetic approach as well as a 
 
 |                                Name                            |  Repo  |                          Details                          |
 | :------------------------------------------------------------: | :----: | :-------------------------------------------------------: |
-| [Algo Academy](https://algoacademy.dev)                        |  [Algo Academy Repo](https://github.com/akatsuki-co/algoacademy)   |  React app for reviewing data structures and algorithms   |
+| [Algo Academy](https://algoacademy.dev) (No longer deployed)   |  [Algo Academy Repo](https://github.com/akatsuki-co/algoacademy)   |  React app for reviewing data structures and algorithms   |
 | [Hygge Homes](https://hyggehomes.dev/) (No longer deployed)    | [Hygge Homes Repo](https://github.com/akatsuki-co/hyggehomes)      |  Django app for searching and booking vacation homes      |
 | [Little Foot Trails](https://little-foot-trails.herokuapp.com) | [Little Foot Trails Repo](https://github.com/rmiyazaki6499/little-foot-trails)       | React/Django app for searching for family friendly hiking spots  |
 | [Stand App](https://draychee-standapp.web.app)                 | [Stand App Repo](https://github.com/rmiyazaki6499/standapp)       | Angular/Django app to help guide Scrums for personal use         |     
