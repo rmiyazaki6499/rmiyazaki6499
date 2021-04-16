@@ -1,7 +1,8 @@
 ## Welcome to my Github!
 
 I am a former Talent Professional who transitioned into Software Engineering.
-I am currently a Software Engineer for a Chatbot platform called [Navbot](http://navbot.io) helping eCommerce companies drive customer service and sales.
+I was formally a Software Engineer for a Chatbot platform called [Navbot](http://navbot.io) helping eCommerce companies drive customer service and sales.
+I am currently a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com/) creating a web app version of their Card App.
 
 I am passionate about building web applications with scalable web technologies particularly with Python and Javascript Web Frameworks such as Django and React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
