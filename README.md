@@ -5,7 +5,7 @@ I was formally a Software Engineer for a Chatbot platform, [Navbot](http://navbo
 
 I am currently a Fullstack engineer for two Fintech starups, [Equal Future](https://equalfuture.com) and another still in Stealth mode.
 
-I am passionate about building web applications with scalable web technologies particularly with Python and Javascript Web Frameworks such as Django and React.
+I am passionate about building web applications with scalable web technologies particularly with Javascript Web Frameworks such as React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
 
 ### Github Stats
