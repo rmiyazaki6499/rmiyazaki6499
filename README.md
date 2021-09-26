@@ -1,7 +1,7 @@
 ## Welcome to my Github!
 
 I am a former Talent Professional who transitioned into Software Engineering.
-I was formally a Software Engineer for a Chatbot platform called [Navbot](http://navbot.io) helping eCommerce companies drive customer service and sales and a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com) creating a web app version of their Card App.
+I was formally a Software Engineer for a Chatbot platform, [Navbot](http://navbot.io) and a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com) creating a web app version of their Card App.
 
 I am currently a Fullstack engineer for two Fintech starups, [Equal Future](https://equalfuture.com) and another still in Stealth mode.
 
