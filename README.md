@@ -1,9 +1,9 @@
 ## Welcome to my Github!
 
 I am a former Talent Professional who transitioned into Software Engineering.
-I was formally a Software Engineer for a Chatbot platform called [Navbot](http://navbot.io) helping eCommerce companies drive customer service and sales.
+I was formally a Software Engineer for a Chatbot platform called [Navbot](http://navbot.io) helping eCommerce companies drive customer service and sales and a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com) creating a web app version of their Card App.
 
-I am currently a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com/) creating a web app version of their Card App.
+I am currently a Fullstack engineer for two Fintech starups, [Equal Future](https://equalfuture.com) and another still in Stealth mode.
 
 I am passionate about building web applications with scalable web technologies particularly with Python and Javascript Web Frameworks such as Django and React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
@@ -16,7 +16,7 @@ I am recognized as a team player for having an empathetic approach as well as a 
 
 |                                Name                            |  Repo  |                          Details                          |
 | :------------------------------------------------------------: | :----: | :-------------------------------------------------------: |
-| [Algo Academy](https://algoacademy.dev)                        |  [Algo Academy Repo](https://github.com/akatsuki-co/algoacademy)   |  React app for reviewing data structures and algorithms   |
+| [Algo Academy](https://algoacademy.dev) (No longer deployed)   |  [Algo Academy Repo](https://github.com/akatsuki-co/algoacademy)   |  React app for reviewing data structures and algorithms   |
 | [Hygge Homes](https://hyggehomes.dev/) (No longer deployed)    | [Hygge Homes Repo](https://github.com/akatsuki-co/hyggehomes)      |  Django app for searching and booking vacation homes      |
 | [Little Foot Trails](https://little-foot-trails.herokuapp.com) | [Little Foot Trails Repo](https://github.com/rmiyazaki6499/little-foot-trails)       | React/Django app for searching for family friendly hiking spots  |
 | [Stand App](https://draychee-standapp.web.app)                 | [Stand App Repo](https://github.com/rmiyazaki6499/standapp)       | Angular/Django app to help guide Scrums for personal use         |     
