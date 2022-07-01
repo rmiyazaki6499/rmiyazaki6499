@@ -3,7 +3,7 @@
 I am a former Talent Professional who transitioned into Software Engineering.
 I was formally a Software Engineer for a Chatbot platform, [Navbot](http://navbot.io) and a Frontend Developer for [Ondot/Fiserv](https://www.ondotsystems.com) creating a web app version of their Card App.
 
-I am currently a Software Engineer for two Fintech starups, [Equal Future](https://equalfuture.com).
+I am currently a Software Engineer for two Fintech starups, [Equal Future](https://equalfuture.com) and [Blue Sky Financial] (https://blueskyfinancial.com/).
 
 I am passionate about building web applications with scalable web technologies particularly with Javascript Web Frameworks such as React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
