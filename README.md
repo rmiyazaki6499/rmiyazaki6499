@@ -6,6 +6,8 @@ I was formally a Software Engineer for a Chatbot platform, [Navbot](http://navbo
 I am passionate about building web applications with scalable web technologies particularly with Javascript Web Frameworks such as React.
 I am recognized as a team player for having an empathetic approach as well as a champion of a growth mindset.
 
+I am currently working on [HeadxHunt](https://headxhunt.com), a searchable directory for Recruitment Agencies and Consultants 
+
 ### Github Stats
 
 [![Ryuichi's github stats](https://github-readme-stats.vercel.app/api?username=rmiyazaki6499&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
